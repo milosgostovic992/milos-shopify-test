@@ -211,6 +211,12 @@
         "default": true
       },
       {
+        "type": "checkbox",
+        "id": "animations_reveal_on_test",
+        "label": "t:settings_schema.animations.settings.animations_reveal_on_scroll.label",
+        "default": true
+      },
+      {
         "type": "select",
         "id": "animations_hover_elements",
         "options": [
